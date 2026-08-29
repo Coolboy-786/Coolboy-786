@@ -1,21 +1,173 @@
-# 💫 About Me:
-Hi, I’m ESHAN — a Business Data Analyst with 2+ years of fintech experience, now pursuing an MSc in Data Science & Analytics at NUI Maynooth. I specialize in:<br>- 🛠 Translating business needs into scalable technical solutions<br>- 🧑‍🤝‍🧑 Collaborating on data-driven projects and reproducible workflows<br>- 🤝 Seeking feedback and insights to refine machine learning models<br>- 🌱 Currently deepening my skills in statistical modeling and analytics<br>- 🧠 Ask me about SDLC leadership, Python/R workflows, or fintech analytics<br>- ⚡ Fun fact: I scored in the 99.57th percentile in JEE, one of the world’s toughest exams<br>
+<div align="center">
 
+# Eshan Kumar Jain
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshanjain16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-kumar-jain-a140921b6/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@VeerRanbhoomi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshanjain552@gmail.com) 
+**AI Specialist & Business Data Analyst**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eshan-kumar-jain&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Eshan-kumar-jain&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-kumar-jain&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Agentic AI · Machine Learning · Data Analytics · Banking Systems
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eshan-kumar-jain&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2B46?style=flat-square&logo=googlechrome&logoColor=white)](https://eshan-kumar-jain.github.io/My-Portfolio-Website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshan-kumar-jain-a140921b6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eshanjain552@gmail.com)
+[![Zenodo](https://img.shields.io/badge/Published_Paper-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/records/20754075)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eshan-kumar-jain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I spent two years at **HDFC Bank** as a Business Data Analyst in Tech & Digital, running API
+integration workstreams over ₹15 Cr+ of daily transaction value — requirement gathering, incident
+triage, UAT, and the SQL analysis that found where processes were stalling.
+
+I'm now finishing an **MSc in Data Science & Analytics at Maynooth University, Ireland** (1st Class
+Honours), building LLM agents and self-supervised models. My background is a B.Tech in Computer
+Science from **NIT Nagpur**.
+
+The thread running through my work: most models that look good are measuring something other than
+what you think. A 91% accuracy score on an 89/11 class split is reporting the class ratio. A 0.657
+validation score can sit on top of a network that has collapsed onto the majority class. Finding
+that gap — and closing it — is the part I care about.
+
+<div align="center">
+
+`Currently` &nbsp;·&nbsp; MSc thesis on self-supervised spectral classification &nbsp;·&nbsp; LangChain & RAG systems &nbsp;·&nbsp; Agentic workflow design
+
+</div>
+
+---
+
+## Featured Work
+
+### 🔬 Ensemble of Lightweight CNNs and CLIP for Skin Disease Classification &nbsp;<sub>[`Published`](https://zenodo.org/records/20754075)</sub>
+
+`PyTorch` `CLIP ViT-B/32` `MobileNetV2` `ShuffleNetV2` `Albumentations`
+
+Average ensemble across three architectures on 7-class HAM10000 dermoscopy data (10,015 images).
+**Macro F1 0.6518 at 82.50% accuracy** — 8.6 points clear of the best single model.
+
+- Adding the CLIP linear probe to a CNN-only ensemble was worth **+8.3% macro F1**, and the rare
+  classes gained most — which is exactly where a screening tool carries its clinical value.
+- Handled a 67% majority class through balanced class weighting and augmentation, selecting on
+  macro F1 rather than accuracy throughout.
+- Diagnosed VGG19's collapse onto the majority class (macro F1 0.1146 behind a 0.657 validation
+  score) as batch-level metric accumulation, and rebuilt evaluation around per-class reporting.
+
+### 🌌 Self-Supervised Region Mapping & Zero-Shot Spectral Classification &nbsp;<sub>`MSc Thesis`</sub>
+
+`PyTorch` `CNNs` `Transformers` `Contrastive Learning`
+
+Three self-supervised models trained on a 2.9 GB VLT/MUSE spectral cube — 96,093 spectra, **no
+labels of any kind**. The models had to locate the jet, the diffuse gas and the point sources on
+their own.
+
+- A CLIP-style dual encoder paired each spectrum with its own image patch (1D + 2D CNNs, symmetric
+  InfoNCE). Clustering those embeddings **reproduced the jet boundary astronomers draw by hand**
+  from line ratios. Synthetic ARI 1.000.
+- A masked-modelling transformer with a per-instrument tokenizer fused MUSE and FEROS spectra across
+  a **50× resolution gap** with no resampling onto a shared grid. Synthetic ARI 0.997, leave-one-out
+  accuracy 0.889.
+
+### 💳 Credit Card Approval Risk Classifier
+
+`Scikit-learn` `XGBoost` `FastAPI` `Streamlit`
+
+Seven grid-searched classifiers reported 91% accuracy while catching **zero of 28 rejections**. The
+89/11 split meant the headline number was measuring the class ratio, not the model.
+
+- Balanced class weighting, F1 scoring in every grid search, and restoring all 16 features lifted
+  **ROC-AUC 0.55 → 0.77** and rejection-class **F1 0.21 → 0.49**.
+- Deployed as a FastAPI service with a Streamlit interface — shipped as a triage signal for human
+  review, not an automated decision.
+
+### 📈 WealthIQ — AI Stock Analyzer
+
+`Claude API` `Next.js` `TypeScript` `Vercel`
+
+Production AI agent running multi-step prompt workflows over NSE and BSE fundamentals, returning
+plain-English analysis of valuation, growth, financial health and ownership.
+
+### 🛒 Retail & Sales Analytics
+
+`PostgreSQL` `Pandas` `SQL`
+
+Normalised schema and the SQL behind customer lifetime value, category revenue share, RFM
+segmentation and seasonal demand trends across 10,000+ transactions.
+
+---
+
+## Tech Stack
+
+**AI & LLMs**
+
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Agentic](https://img.shields.io/badge/Agentic_Workflows-6E4AFF?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4A4A4A?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Data & Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**APIs & Development**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Service Management**
+
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_/_SDLC-1F6FEB?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT_&_Incident_Triage-6C757D?style=flat-square)
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Eshan-kumar-jain&show_icons=true&hide_border=true&title_color=145080&icon_color=145080&text_color=555555&bg_color=00000000&include_all_commits=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-kumar-jain&layout=compact&hide_border=true&title_color=145080&text_color=555555&bg_color=00000000&langs_count=6" alt="Top languages" />
+
+</div>
+
+---
+
+## Education & Credentials
+
+| | |
+|---|---|
+| **MSc Data Science & Analytics** — 1st Class Honours | Maynooth University, Ireland · 2025–2026 |
+| **B.Tech Computer Science & Engineering** | NIT Nagpur, India · 2019–2023 |
+| **Anthropic** | Claude 101 Prompt Engineering · Agent Skills · Subagents |
+| **HackerRank** | SQL Certificate |
+| **JEE Main 2019** | 99.57th percentile — top 0.43% of 900,000 candidates |
+| **Olympiads** | Gold Medalist, International Mathematics & Science |
+
+---
+
+<div align="center">
+
+Open to roles in **AI/ML Engineering**, **Data Science** and **Analytics** — Ireland, EU & India.
+
+[eshanjain552@gmail.com](mailto:eshanjain552@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/eshan-kumar-jain-a140921b6) &nbsp;·&nbsp; [Portfolio](https://eshan-kumar-jain.github.io/My-Portfolio-Website)
+
+</div>
